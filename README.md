@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <h1 align="center">Hi everyone 👋</h1>
 
 <p align="center">
 I'm a beginner on my journey into <b>Data Science</b>.<br>
-Coming from a гуманитарный background, I am highly motivated to learn, grow, and build strong analytical skills.
+Coming from a humanitarian background, I am highly motivated to learn, grow, and build strong analytical skills.
 </p>
 
 ---
